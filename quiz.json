@@ -1,0 +1,13 @@
+{"id":5011,
+ "type":"QUIZ",
+ "title":"React Quiz In React",
+ "description":"This is a Simple Quiz of React, made in React for My Mini Project.",
+ "url":"",
+ "thumbnail":{"id":178408,"width":198,"height":185,"type":"RECTANGLE_THUMBNAIL","credit":"","filePath":"https://imgs.search.brave.com/IImYiB2NaGGgIF5rGaTvfHSPodbVI4AD1uKjPnuKDpg/rs:fit:198:185:1/g:ce/aHR0cDovL3d3dy5w/cm9ncmFtd2l0aGVy/aWsuY29tL2NvbnRl/bnQvaW1hZ2VzLzIw/MTYvMDIvcmVhY3Qt/bG9nby5wbmc",
+ "duration":0,"license":null,"description":"Photograph","mediaType":"IMAGE","altText":"React Symbol","mediaId":0},
+ "image":{"id":178408,"width":870,"height":500,"type":"FEATURE","credit":"","filePath":"https://imgs.search.brave.com/tRsFu8XeXnJ29U6LGMzvjJ68RUTOs8hFps_JTEt1p9c/rs:fit:870:500:1/g:ce/aHR0cHM6Ly93d3cu/bWV0YWx0b2FkLmNv/bS9zaXRlcy9kZWZh/dWx0L2ZpbGVzL3N0/eWxlcy9sYXJnZV9w/ZXJzb25hbF9waG90/b184NzB4NTAwXy9w/dWJsaWMvMjAyMC0w/NS9yZWFjdC1qcy1i/bG9nLWhlYWRlci5w/bmc_aXRvaz1WYmZE/ZVNnSg",
+  "duration":0,"license":null,"description":"Photograph","mediaType":"IMAGE",
+  "altText":" React Image","mediaId":0},"browserTitle":"A Quiz Of React Made By React",
+  "introduction":"<center><strong>This is a Simple Quiz of React, made in React for My Mini Project.</strong></center>","level":1,
+  "editorIds":null,"newQuiz":false,"numOfQuestions":7,"timer":true,"seconds":10,
+  "sortTitle":"A Quiz Of React Made In React","quizType":"TRUE_FALSE","date":20140812,"questions":null,"identifier":"5011"}
